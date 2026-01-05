@@ -184,9 +184,8 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 ---
 
-**Developed as part of MSc Cybe<img width="733" height="1043" alt="Screenshot_2026-01-05_21_38_53" src="https://github.com/user-attachments/assets/76cbea40-bcb6-41ae-86d6-34746707bfb1" />
-r Security (with Advanced Practice)**  
+**Developed as part of MSc Cyber Security (with Advanced Practice)**  
 **Teesside University | January 2026**
-
+<img width="733" height="1043" alt="Screenshot_2026-01-05_21_38_53" src="https://github.com/user-attachments/assets/76cbea40-bcb6-41ae-86d6-34746707bfb1" />
 ![Uploading Screenshot_2026-01-05_21_38_53.png…]()
 
